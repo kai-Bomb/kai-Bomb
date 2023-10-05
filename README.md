@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=hoge&layout=compact&theme=dracula
+https://github-readme-stats.vercel.app/api/top-langs/?username=Aoitoridayo&layout=compact&theme=dracula
 
 
 <!--
