@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Aoitoridayo/Aoitoridayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <p align="left">
   <a href="https://github.com/Aoitoridayo/Aoitoridayo/">
     <img src="https://komarev.com/ghpvc/?username=yutkat" alt="Aoitoridayo" />
@@ -22,3 +17,8 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/Aoitoridayo/contributions.svg" />
   </a>
 </p>
+
+<!--
+**Aoitoridayo/Aoitoridayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
