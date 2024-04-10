@@ -13,5 +13,5 @@
 </p>
 <p>
 <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kai-Bomb&theme=github_dark" />
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=MaedaKouta&theme=onedark&show_icons=ture" />
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kai-Bomb&theme=onedark&show_icons=ture" />
 </p>
