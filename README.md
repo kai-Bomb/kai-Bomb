@@ -14,5 +14,9 @@
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kai-Bomb&theme=onedark&show_icons=ture" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai-Bomb&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kai-Bomb&theme=github_dark" />
+  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kai-Bomb&theme=github_dark" />
+
+![kai-Bomb](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kai-Bomb&theme=github_dark)
+  
 </p>
